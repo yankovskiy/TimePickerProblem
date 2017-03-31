@@ -10,4 +10,5 @@ After user interact with widget (change time) setHour and setTime methods not wo
 
 Result: no reset affect.
 
+Bug on the Issue tracker: https://code.google.com/p/android/issues/detail?id=295123
 
