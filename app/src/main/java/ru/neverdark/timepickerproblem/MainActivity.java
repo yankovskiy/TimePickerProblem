@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 int hourFromPicker;
                 int minuteFromPicker;
 
+                // without this function we have problem
                 fixValues();
 
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
